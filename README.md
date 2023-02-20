@@ -21,6 +21,7 @@
 
 
 לפרטים נוספים על הקורס ראו:
+* [הקלטות הקורס משנה שעברה](https://www.youtube.com/watch?v=VWVv02sfwbc&list=PLM9fKcsATjxjqsyIcU4IRWuo-w4rQf_Pb)
 * [חוקי צבירת הנקודות בקורס](grade-rules.md)
 * [תקנון היושר בהגשת מטלות](https://www.ariel.ac.il/wp/cs/wp-content/uploads/sites/88/2020/08/Guidelines-for-Academic-Integrity.pdf)
 * [למי הקורס **לא** מתאים](disclaimer.md)
