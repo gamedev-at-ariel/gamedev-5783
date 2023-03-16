@@ -24,6 +24,7 @@
 * [ParanaGames](https://www.facebook.com/bemiraculouslb) - סטרט-אפ משחקים לניידים; תל-אביב.
 * [OneCode](https://onecode.co.il/) - פיתוח חוויות-משתמש משחקיות.
 * [3EEL](https://3eel.com/) - משחקי אסטרטגיה מציאותיים; כרמיאל.
+* [Spinomenal](https://spinomenal.com/) - משחקי מזל.
 
 אנשים
 -----
