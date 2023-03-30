@@ -4,7 +4,7 @@ The very basic
 concepts of Unity programming: game objects, components, transform, rendering, 
 properties, behaviors, scripts, movement, time, materials, keyboard and mouse input.
 
-Code samples can be found [here](https://github.com/erelsgl-at-ariel/gamedev-5780-code) in folder 01.
+Code samples can be found [here](https://github.com/gamedev-at-ariel) in folder 01-unity-basics.
 
 Authors: Maoz Grossman, Or Hadar and Erel Segal-Halevi.
 
